@@ -1,0 +1,31 @@
+html {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    color: brown;
+    background-color: white;
+
+}
+h1 {
+    font-size: 50px;
+    
+}
+p {
+    font-size: 20px;
+    
+   
+}
+td{
+    font-size: 20px;
+}
+
+
+.Bla{
+    font-size: 10px;
+}
+.NV{
+    font-size: 15px;
+    color: gray;
+}
+
